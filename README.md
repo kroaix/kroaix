@@ -40,4 +40,4 @@ Here are some ideas to get you started:
  - Portfolio [Website](https://www.kroaix.dev)
 
 
-:star2: From [Katrina](https://github.com/[kroaix])
+:star2: From [Katrina](https://github.com/kroaix)
